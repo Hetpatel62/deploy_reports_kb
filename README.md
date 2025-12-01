@@ -57,5 +57,3 @@ Shows:
 
 ---
 
-## 📁 Folder Structure
-
